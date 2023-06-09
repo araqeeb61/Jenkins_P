@@ -18,6 +18,7 @@ int main ()
 	
 	if (bmi>24)
 	{printf("\nyou are over weighted");}
+	coent
 
     else if (18<bmi>24)
     {printf("\nyou are under weighted");
